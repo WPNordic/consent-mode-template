@@ -1,5 +1,5 @@
 homepage: "https://www.wpnordic.com/"
 documentation: "https://www.example.com/documentation"
 versions:
-  - sha: aba48d6d305fa7d2fcc8ab0bbd4de4196651382b
+  - sha: b6cab1c8533263d4bc7e0aeb9a62f4fdc699216e
     changeNotes: Initial release.
