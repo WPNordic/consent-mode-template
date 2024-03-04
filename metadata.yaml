@@ -1,0 +1,5 @@
+homepage: "https://www.wpnordic.com/"
+documentation: "https://www.example.com/documentation"
+versions:
+  - sha: 
+    changeNotes: Initial release.

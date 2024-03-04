@@ -1,0 +1,2 @@
+# consent-mode-template
+ 
