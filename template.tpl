@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "WP Nordic - Cookie Care Consent Mode v2",
-  "categories": ["TAG_MANAGEMENT", "UTILITY" ]
+  "categories": ["TAG_MANAGEMENT", "UTILITY" ],
   "brand": {
     "id": "cookie_care",
     "displayName": "cookie-care",
